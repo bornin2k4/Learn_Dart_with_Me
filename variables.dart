@@ -22,7 +22,7 @@ b = "hi"; // changeable - to any data type
 
 int num1=5;
 double num2=5.0;
-string str="Thalha";
+String str="Thalha";
 
 num2 = 7; // changeable
 
