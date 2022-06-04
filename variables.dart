@@ -41,8 +41,25 @@ print(height); // output: null
 height = "10cm";
 print(height) // output: 10cm
 
+//Boolean data type (true or false)
+bool a=true;
+
 
 // We will discuss lists,maps which are also the data types of dart...
 // In the next blog...
 
 }
+
+// Keyword used
+/*
+var
+String
+int
+double
+dynamic
+const
+final
+bool
+true
+false
+*/
