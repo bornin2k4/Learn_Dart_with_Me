@@ -41,4 +41,8 @@ print(height); // output: null
 height = "10cm";
 print(height) // output: 10cm
 
+
+// We will discuss lists,maps which are also the data types of dart...
+// In the next blog...
+
 }
