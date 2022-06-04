@@ -22,13 +22,13 @@ list1.addAll([6,7]);
 list1.insert(2,9);
 
 // Use insertAt(position, elements)
-list1.insertAt(3,[10,11,12])
+list1.insertAll(3,[10,11,12]);
 
 //You can use remove() to remove a particular element when the item is known
-list1.remove(5)
+list1.remove(5);
 
 //You can use removeAt() when you know the position or index of the element
-list1.removeAt(3)
+list1.removeAt(3);
 
 // You can also create mixedlist with different data types.
 // A list can contain String,int,double,bool,list (ie: any data type)
@@ -41,7 +41,7 @@ var
 add
 addAll
 insert
-insertAt
+insertAll
 remove
 removeAt
 */
